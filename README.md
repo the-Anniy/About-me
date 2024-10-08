@@ -39,6 +39,7 @@
 
 ##### И третья
 
+
 <kbd>
-<image src="/images/photo5.jpg" alt="фото 5"> 
+<image src="/images/photo4.JPG" alt="фото 4"> 
 </kbd>
