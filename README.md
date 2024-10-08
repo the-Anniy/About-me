@@ -25,14 +25,20 @@
 
 #### А это шерсть моя
 
+##### Первая
+
 <kbd>
 <image src="/images/photo3.JPG" alt="фото 3"> 
 </kbd>
+
+##### Вторая
 
 <kbd>
 <image src="/images/photo4.JPG" alt="фото 4"> 
 </kbd>
 
+##### И третья
+
 <kbd>
-<image src="/images/photo5.JPG" alt="фото 5"> 
+<image src="/images/photo5.jpg" alt="фото 5"> 
 </kbd>
