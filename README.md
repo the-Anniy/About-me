@@ -13,33 +13,22 @@
 
 #### Это я
 
-<kbd>
 <image src="/images/photo1.JPG" alt="фото 1"> 
-</kbd>
 
 #### Это тоже я
 
-<kbd>
 <image src="/images/photo2.JPG" alt="фото 2">
-</kbd>
 
 #### А это шерсть моя
 
 ##### Первая
 
-<kbd>
 <image src="/images/photo3.JPG" alt="фото 3"> 
-</kbd>
 
 ##### Вторая
 
-<kbd>
 <image src="/images/photo4.JPG" alt="фото 4"> 
-</kbd>
 
 ##### И третья
 
-
-<kbd>
-<image src="/images/photo5.JPG" alt="фото 5"> 
-</kbd>
+<image src="/images/photo5.JPG" alt="фото 5">
