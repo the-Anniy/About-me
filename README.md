@@ -41,5 +41,5 @@
 
 
 <kbd>
-<image src="/images/photo4.JPG" alt="фото 4"> 
+<image src="/images/photo5.JPG" alt="фото 5"> 
 </kbd>
