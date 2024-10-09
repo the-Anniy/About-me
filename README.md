@@ -13,22 +13,22 @@
 
 #### Это я
 
-<image src="/images/photo1.JPG" alt="фото 1"> 
+![фото 1](https://github.com/the-Anniy/About-me/blob/main/images/photo1.JPG)
 
 #### Это тоже я
 
-<image src="/images/photo2.JPG" alt="фото 2">
+![фото 2](https://github.com/the-Anniy/About-me/blob/main/images/photo2.JPG)
 
 #### А это шерсть моя
 
 ##### Первая
 
-<image src="/images/photo3.JPG" alt="фото 3"> 
+![фото 3](https://github.com/the-Anniy/About-me/blob/main/images/photo3.JPG)
 
 ##### Вторая
 
-<image src="/images/photo4.JPG" alt="фото 4"> 
+![фото 4](https://github.com/the-Anniy/About-me/blob/main/images/photo4.JPG)
 
 ##### И третья
 
-<image src="/images/photo5.JPG" alt="фото 5">
+![фото 5](https://github.com/the-Anniy/About-me/blob/main/images/photo5.JPG)
